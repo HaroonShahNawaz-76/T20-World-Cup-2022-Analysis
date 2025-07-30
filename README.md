@@ -1,0 +1,2 @@
+# T20-World-Cup-2022-Analysis
+An analysis of the ICC Men's T20 World Cup 2022 data.
